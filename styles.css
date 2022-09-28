@@ -1,0 +1,24 @@
+.nav ul {
+    border: 1px solid black;
+    list-style-type: none;
+}
+header {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.tabla td, tr {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+}
+.Formulario {
+    text-align: left;
+}
+.tabla2 td, tr {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+}
